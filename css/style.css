@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC:400,700|Oswald:400,700');
+
+body {
+  background-repeat: repeat;
+  font-family: oswald;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+.goodboye {
+  max-width: 350px;
+  max-height: 210px;
+}
+
+#collage {
+  max-width: 450px;
+  border: 100px;
+  border-color: orangered;
+}
+
+#ancestry {
+  max-width: 1200px;
+}
+
+.box {
+  background-color: white;
+  padding: 100px;
+  margin: 100px auto;
+}
